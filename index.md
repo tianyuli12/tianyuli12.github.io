@@ -13,7 +13,7 @@ I worked with Prof. [Jingsong Han] at Zhejiang University from 2021/10 to 2022/6
 
 
 [Github] <br />
-[Email]  or  *tianyuli at dot u dot nus dot edu* <br />
+[Email]  or  *tianyuli at u dot nus dot edu* <br />
 
 [Jingsong Han]: https://person.zju.edu.cn/hanjinsong
 [Tianhao Wang]: https://tianhao.wang/
