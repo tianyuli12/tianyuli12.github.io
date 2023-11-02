@@ -4,16 +4,16 @@ title: Interests
 permalink: /misc/
 ---
 
-## Animation
+### Animation
 
 
-## Pool
+### Pool
 
 
-## Soccer
+### Soccer
 
 
-## Rythm Games
+### Rythm Games
 
 
 
