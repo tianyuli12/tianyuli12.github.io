@@ -10,11 +10,9 @@ Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod 
 
 ## Contact
 
-Rebel base <br />
-[Yavin] <br />
-Galaxy far far away<br />
-Email: [chewy@rebel.com]
 
+[Github] <br />
+[Email]<br />
 
-[Yavin]: https://en.wikipedia.org/wiki/Yavin
-[chewy@rebel.com]: mailto:chewy@rebel.com
+[Github]: https://github.com/lty12b9b0a1
+[chewy@rebel.com]: mailto:tianyuli@u.nus.edu
