@@ -13,7 +13,7 @@ I work remotely with Prof. [Tianhao Wang] from 2022/6 to 2023/6 at University of
 
 
 [Github] <br />
-[Email] <br />
+[Email] or tianyuli dot at dot u dot nus dot edu <br />
 
 
 [Tianhao Wang]: https://tianhao.wang/
