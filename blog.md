@@ -6,7 +6,7 @@ permalink: /blog/
 
 Under construction...
 
-<ul class="listing">
+<!-- <ul class="listing">
 {% for post in site.posts %}
   {% capture y %}{{post.date | date:"%Y"}}{% endcapture %}
   {% if year != y %}
@@ -18,4 +18,4 @@ Under construction...
     <a href="{{ post.url | prepend: site.baseurl }}" title="{{ post.title }}">{{ post.title }}</a>
   </li>
 {% endfor %}
-</ul>
+</ul> -->
