@@ -14,7 +14,6 @@ New in this game.
 I have played for more than 15 years(from 5 years old).
 
 ### Games
-Especially rythm games, which I have played for more than 10 years. Such as: OM(quited), Deemo, Rythm Master
-Other games like LOL, Genshin Impact.
+Especially rythm games, which I have played for more than 10 years. Such as: OSU!Mania(quited), Deemo, Rythm Master. Other games like LOL, Genshin Impact.
 
 
