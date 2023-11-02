@@ -1,18 +1,21 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /
 ---
 
 {% include image.html url="images/photo.jpg" caption="" max_width="300px" align="right" %}
 
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr,  sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.
+I’m a first year PhD candidate student in SoC at National University of Singaproe. Before coming to NUS,
+I work remotely with Prof. [Tianhao Wang] from 2022/6 to 2023/6 at University of Virginia. I received my B.E. in Software Engineering at Zhejiang University in 2023/6.
 
 ## Contact
 
 
 [Github] <br />
-[Email]<br />
+[Email] <br />
 
+
+[Tianhao Wang]: https://tianhao.wang/
 [Github]: https://github.com/lty12b9b0a1
-[chewy@rebel.com]: mailto:tianyuli@u.nus.edu
+[Email]: mailto:tianyuli@u.nus.edu
