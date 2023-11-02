@@ -5,7 +5,7 @@ permalink: /misc/
 ---
 
 ### Animation
-Especially Japanese animation. But I cannot speak Japanese. I'm fanatic of Elaina and Hoshino Ai.
+Especially Japanese animation. But I cannot speak Japanese. I'm a fanatic of Elaina and Hoshino Ai.
 
 ### Pool
 New in this game.
