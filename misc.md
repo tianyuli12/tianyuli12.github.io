@@ -5,15 +5,15 @@ permalink: /misc/
 ---
 
 ### Animation
-Especially Japanese animation. But I cannot speak Japanese. I'm a fanatic of Elaina and Hoshino Ai.
+Especially Japanese animation. But I cannot speak Japanese.
 
 ### Pool
 New in this game.
 
 ### Soccer
-I have played for more than 15 years(from 5 years old).
+I have played for over 15 years(from 5 years old).
 
 ### Games
-Especially rythm games, which I have played for more than 10 years. Such as: OSU!Mania(quited), Deemo, Rythm Master. Other games like LOL, Genshin Impact.
+Especially rhythm games, such as OSU!Mania(quited), Deemo, Rythm Master. Other games like LOL, and Genshin Impact.
 
 
