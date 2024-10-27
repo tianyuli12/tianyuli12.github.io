@@ -14,7 +14,7 @@ pubs:
     
     - title:   "MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals"
       author:  "Rui Xiao, **Tianyu Li**, Soundarya Ramesh, Jun Han, and Jinsong Han"
-      journal: "29th International Conference on Mobile Computing and Networking"
+      journal: "International Conference on Mobile Computing and Networking"
       # note:    ""
       year:    "[MobiCom 2023]"
       url:     "https://dl.acm.org/doi/abs/10.1145/3570361.3613283#:~:text=MagTracer%20utilizes%20a%20small%20magnetic,the%20victim%20about%20potential%20cryptojacking."
