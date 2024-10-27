@@ -6,10 +6,10 @@ pubs:
     
     
     - title:   "SPAS: Continuous Release of Data Streams under w-Event Differential Privacy"
-      author:  "'*'Xiaochen Li, '*'**Tianyu Li (co-first) **, Yitian Cheng, Chen Gong, Kui Ren, Zhan Qin, Tianhao Wang"
+      author:  "Xiaochen Li, **Tianyu Li (co-first) **, Yitian Cheng, Chen Gong, Kui Ren, Zhan Qin, Tianhao Wang"
       journal: "International Conference on Management of Data"
       # note:    ""
-      year:    "[SIGMOD 2025]"
+      year:    "[co-first][SIGMOD 2025]"
 
     
     - title:   "MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals"
