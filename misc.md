@@ -4,10 +4,7 @@ title: Interests
 permalink: /misc/
 ---
 
-### Animation
-Especially Japanese animation. But I cannot speak Japanese.
-
-### Pool
+### Pool & Snooker
 New in this game.
 
 ### Soccer
