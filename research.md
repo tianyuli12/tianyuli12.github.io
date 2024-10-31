@@ -3,7 +3,11 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
-    
+    - title:   "Translating C To Rust: Lessons from a User Study"
+      author:  "Ruishi Li, Bo Wang, **Tianyu Li**, Prateek Saxena, Ashish Kundu"
+      journal: "Network & Distributed System Security Symposium"
+      note:    "To appear"
+      year:    "[NDSS 2025]"
     
     - title:   "SPAS: Continuous Release of Data Streams under w-Event Differential Privacy"
       author:  "Xiaochen Li, **Tianyu Li (co-first)**, Yitian Cheng, Chen Gong, Kui Ren, Zhan Qin, Tianhao Wang"
