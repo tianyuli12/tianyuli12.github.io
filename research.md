@@ -4,10 +4,10 @@ permalink: /research/
 title: Research
 pubs:
     - title:   "Program Skeletons for Automated Program Translation"
-      author:  ""
-      journal: ""
+      author:  "Bo Wang, **Tianyu Li (co-first)**, Ruishi Li, Umang Mathur, Prateek Saxena"
+      journal: "ACM SIGPLAN Conference on Programming Language Design and Implementation"
       note:    "To Appear"
-      year:    "[PLDI 2025]"
+      year:    "[co-first][PLDI 2025]"
 
 
     - title:   "Translating C To Rust: Lessons from a User Study"
