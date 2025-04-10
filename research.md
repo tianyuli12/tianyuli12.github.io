@@ -10,6 +10,7 @@ pubs:
       journal: "International Conference on Management of Data"
       note:    "To appear"
       year:    "[co-first][SIGMOD 2025]"
+      url:     "https://dl.acm.org/doi/pdf/10.1145/3714420"
 
     
     - title:   "MagTracer: Detecting GPU Cryptojacking Attacks via Magnetic Leakage Signals"
