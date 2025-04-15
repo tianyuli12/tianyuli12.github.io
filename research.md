@@ -6,8 +6,9 @@ pubs:
     - title:   "Program Skeletons for Automated Program Translation"
       author:  "Bo Wang, **Tianyu Li (co-first)**, Ruishi Li, Umang Mathur, Prateek Saxena"
       journal: "ACM SIGPLAN Conference on Programming Language Design and Implementation"
-      note:    "To Appear"
+      # note:    "To Appear"
       year:    "[co-first][PLDI 2025]"
+      url:     "https://arxiv.org/pdf/2504.07483"
 
 
     - title:   "Translating C To Rust: Lessons from a User Study"
@@ -15,7 +16,7 @@ pubs:
       journal: "Network and Distributed System Security (NDSS) Symposiuma"
       # note:    ""
       year:    "[NDSS 2025]"
-      url:     "[https://dl.acm.org/doi/pdf/10.1145/3714420](https://www.comp.nus.edu.sg/~prateeks/papers/C-Rust-User-Study.pdf)"
+      url:     "https://www.comp.nus.edu.sg/~prateeks/papers/C-Rust-User-Study.pdf"
 
       
     - title:   "SPAS: Continuous Release of Data Streams under w-Event Differential Privacy"
