@@ -8,6 +8,8 @@ permalink: /
 
 I’m a first-year Ph.D. candidate student in SoC at the National University of Singapore co-advised by Prof. [Umang Mathur] and Prof. [Prateek Saxena]. Before coming to NUS, I worked with Prof. [Jinsong Han] at Zhejiang University from 2021/10 to 2022/6 and worked remotely with Prof. [Tianhao Wang] from 2022/6 to 2023/6 at the University of Virginia. I received my B.E. in Software Engineering at Zhejiang University in 2023/6.
 
+Here is my [CV].
+
 ## Contact
 
 [Github] <br />
@@ -19,3 +21,4 @@ I’m a first-year Ph.D. candidate student in SoC at the National University of 
 [Tianhao Wang]: https://tianhao.wang/
 [Github]: https://github.com/lty12b9b0a1
 [Email]: mailto:tianyuli@u.nus.edu
+[CV]: Tianyu_Li_CV_0506.docx
