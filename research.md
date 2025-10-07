@@ -3,6 +3,13 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+    - title:   "Adversarial Agent Collaboration for C to Rust Translation"
+      author:  "**Tianyu Li**, Ruishi Li, Bo Wang, Brandon Paulsen, Umang Mathur, Prateek Saxena"
+      # journal: "ACM SIGPLAN Conference on Programming Language Design and Implementation"
+      # note:    "To Appear"
+      year:    "[Arxiv]"
+      url:     "https://arxiv.org/abs/2510.03879"
+      
     - title:   "Program Skeletons for Automated Program Translation"
       author:  "Bo Wang, **Tianyu Li (co-first)**, Ruishi Li, Umang Mathur, Prateek Saxena"
       journal: "ACM SIGPLAN Conference on Programming Language Design and Implementation"
