@@ -5,7 +5,7 @@ title: Research
 pubs:
     - title:   "Adversarial Agent Collaboration for C to Rust Translation"
       author:  "**Tianyu Li**, Ruishi Li, Bo Wang, Brandon Paulsen, Umang Mathur, Prateek Saxena"
-      # journal: "Under Review"
+      journal: "Arxiv"
       # note:    "To Appear"
       year:    "[Arxiv]"
       url:     "https://arxiv.org/abs/2510.03879"
