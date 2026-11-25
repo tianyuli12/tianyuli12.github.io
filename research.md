@@ -3,6 +3,13 @@ layout: page
 permalink: /research/
 title: Research
 pubs:
+    - title:   "A Star is Reborn: The PHP Interpreter Rewritten in Safe Rust"
+      author:  "**Tianyu Li**, Bo Wang, Prateek Saxena, Umang Mathur"
+      journal: "Arxiv"
+      # note:    "To Appear"
+      year:    "[Arxiv]"
+      url:     "https://arxiv.org/abs/2611.32477"
+
     - title:   "Adversarial Agent Collaboration for C to Rust Translation"
       author:  "**Tianyu Li**, Ruishi Li, Bo Wang, Brandon Paulsen, Umang Mathur, Prateek Saxena"
       journal: "Arxiv"
